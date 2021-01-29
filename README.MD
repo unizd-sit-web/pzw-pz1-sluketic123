@@ -18,14 +18,3 @@ Web site mora imati zaglavlje (header) i podnožje (footer) s navigacijskim i va
 Web mora biti responsivan
 Poželjno da naslovna stranica bude „one-page” stranica (sav bitan sadržaj na njoj)
 Obavezno imati još dvije dodatne stranice: „O meni” + neka od: kontakt, FAQ, Izjava o privatnosti, Izjava o kolačićima i sl.
-
-
-
-
-
-
-
-
-# Projekt 2,Stjepan Luketić
-## Ovim projektom se bavim s flaskom.U naše web stranice potrebno je ubaciti flask,templates,form i web services.
-### Tema projekta 2 je kratka stranica o pecanju s 3 stranice,home,pecanje i novosti.
